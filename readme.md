@@ -144,6 +144,7 @@ Interface minimaliste de type chat pour interroger l’assistant.
 - [ ] Documentation complet de code
 - [ ] Fichier sample.py a completer
 - [ ] Tester tous les differents scritps
+- [ ]
 
 ---
 
@@ -154,8 +155,8 @@ Interface minimaliste de type chat pour interroger l’assistant.
 Un échantillon de données est utilise pour ce projet (faute de ressources).
 
 ## Reponse aux questions
-1. 
 
+Le dossier `images` contient de capture d'écran des questions posées à notre assistant.
 ---
 
 ## 🤝 Contributions
