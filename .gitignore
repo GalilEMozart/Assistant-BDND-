@@ -1,0 +1,59 @@
+# Environnement virtuel
+my_env/
+.venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs
+logs/
+*.log
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Données brutes et résultats ETL
+data/brutes/
+data/etl_input/
+data/etl_output/
+data/zip/
+
+# Base de données locale Chroma
+db/
+*.sqlite3
+
+# Fichiers d'image, screenshots, etc.
+images/
+
+# Cache Hugging Face
+hf_cache_dir/
+
+# Modèles lourds
+models_llm/
+*.gguf
+*.bin
+
+# Node / React
+frontend/node_modules/
+frontend/build/
+frontend/.next/
+frontend/.cache/
+
+# Docker
+*.env
+*.env.*
+.envrc
+
+# OS / IDE spécifiques
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Fichiers temporaires / backups
+*.swp
+*~
+*.bak
